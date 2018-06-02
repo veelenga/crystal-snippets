@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: map { |...| ... }
+# group: collections
+# key: map
+# --
+map { |${e}| $0 }

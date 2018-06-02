@@ -1,5 +1,7 @@
-#name : until ... end
-#group: control structure
+# -*- mode: snippet -*-
+# name: until ... end
+# group: control structure
+# key: until
 # --
 until ${condition}
   $0

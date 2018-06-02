@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: select { |...| ... }
+# group: collections
+# key: select
+# --
+select { |${1:element}| $0 }

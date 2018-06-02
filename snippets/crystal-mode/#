@@ -1,4 +1,6 @@
-#name : # =>
-#group : general
+# -*- mode: snippet -*-
+# name: # =>
+# group: general
+# key: #
 # --
 # =>

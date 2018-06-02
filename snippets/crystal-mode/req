@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: require "..."
+# group: general
+# key: require
+# --
+require "$0"

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: module ... end
+# group: general
+# key: mod
+# --
+module ${1:Module}
+$0
+end

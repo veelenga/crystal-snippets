@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: init@
+# group: general
+# key: init@
+# --
+def initialize(@${1:arg})
+  $0
+end
