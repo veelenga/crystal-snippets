@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: private def ... end
+# group: general
+# key: pridef
+# --
+private def ${1:method}${2:(${3:args})}
+  $0
+end

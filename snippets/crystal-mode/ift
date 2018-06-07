@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: ternary if
+# group: control structure
+# key: ift
+# --
+$1 ? $2 : $0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: alias ... end
+# group: general
+# key: alias
+# --
+
+alias $1 = $2 | $3

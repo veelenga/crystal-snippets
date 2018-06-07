@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: enum ... end
+# group: general
+# key: enum
+# --
+enum ${1:Enum}
+  $0
+end

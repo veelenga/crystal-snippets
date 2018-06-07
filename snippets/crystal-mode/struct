@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: struct ... end
+# group: general
+# key: struct
+# --
+struct ${1:Struct}
+  $0
+end
